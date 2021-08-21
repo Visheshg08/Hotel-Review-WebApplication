@@ -27,25 +27,34 @@ Public:
 In this directory functionality for maps and basic css for maps ,home page and stars is provided.
 Seeds: The initial data is incorporated from the seeds file. Usually there should be no data in sedds as the data should be provided from user. But to show example. Some initial data is used.
 
+
 Views: In this directory all the frontend part and the html is provided. The index page, edit page, new page, homepage.
 App.js:  Main file for starting the app.
 Middleware: Middleware for validation.
+![image](https://user-images.githubusercontent.com/58374984/130333878-d3b3aa6c-446d-4424-93a9-9af8f58c8ec8.png)
  
 Home Page: This page allows the user to navigate around the whole webapp
+![image](https://user-images.githubusercontent.com/58374984/130333896-246dc91e-47ed-4176-a82a-9bd566273245.png)
+
+
 
 
  
 Index Page: Shows all the hotels that have been uploaded till now.
+![image](https://user-images.githubusercontent.com/58374984/130333904-4932c8cb-f3cf-42e8-8c4d-e50c743121a6.png)
 
  
 Hotel Edit Page:
 Only users who have uploaded that property can upload new or delete pages which they have uploaded before.
+![image](https://user-images.githubusercontent.com/58374984/130333909-f4c705c7-d08b-4eca-8662-8438fea09ce3.png)
 
  
 Show Page: This page displays details about the hotel , Location, prices and reviews. Only users who have uploaded the review can edit or delete it
 
  
 New Hotel: Users who want to upload about their own property can upload the hotel. This send the request to add the hotel and lands the user on the index page.
+![image](https://user-images.githubusercontent.com/58374984/130333921-98fec736-418c-480a-b851-4e0ca3ad6f37.png)
+
 
 
 
